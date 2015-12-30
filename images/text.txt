@@ -1,0 +1,5 @@
+color: gradient-color: top: #1c2b44, middle:#243859, bottom:#3d5c93
+article-heading: #000000
+article-text : #3d5c93,
+slide-text: #58595b,
+slider-box-width:125px and height: 145px

@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html ng-app="single-page-app">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{{title}}</title>
+<link href="css/style.css" rel="stylesheet" media="all" />
+<script src="js/modernizr.js" type="text/javascript"></script> 
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div id="outer_wrapper">
+  	<header-data head=""></header-data>     
+    <div class="inner_wrapper" id="main">     
+ 		  <div ng-view></div>     
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+
+<script src="js/angular.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script> 
+<script src="js/custom.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

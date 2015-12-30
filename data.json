@@ -1,0 +1,1648 @@
+{
+    "#name": null,
+    "#text": null,
+    "#children": [
+        {
+            "#name": "article",
+            "#text": null,
+            "#children": [
+                {
+                    "#name": "@id",
+                    "#text": 753984,
+                    "#children": []
+                },
+                {
+                    "#name": "@product",
+                    "#text": "wborc",
+                    "#children": []
+                },
+                {
+                    "#name": "@revised-date",
+                    "#text": "08/02/2010",
+                    "#children": []
+                },
+                {
+                    "#name": "@status",
+                    "#text": "final",
+                    "#children": []
+                },
+                {
+                    "#name": "@version",
+                    "#text": 1.18,
+                    "#children": []
+                },
+                {
+                    "#name": "title",
+                    "#text": "Bollywood",
+                    "#children": []
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "English",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "language",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book Student",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publication",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book Advanced",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publication",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book Online Info Finder",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publication",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book Online Reference Center",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publication",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book Academic",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publication",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": 2014,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "pub-details",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "World Book, Inc.",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "publisher",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "xml",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "doctype",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "Reference",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "genre",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "http://www.worldbookonline.com/student/article?id=ar753984",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "link",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "http://www.worldbookonline.com/advanced/article?id=ar753984",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "link",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "http://www.worldbookonline.com/pl/infofinder/article?id=ar753984",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "link",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "http://www.worldbookonline.com/pl/referencecenter/article?id=ar753984",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "link",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": "http://www.worldbookonline.com/academic/article?id=ar753984",
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "link",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "area-of-interest-1",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "area-of-interest-2",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "nationality-1",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "nationality-2",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "gender",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "ethnicity-1",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "ethnicity-2",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "birth-century",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "death-century",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-1",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-2",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-3",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-4",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-5",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "meta",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@content",
+                            "#text": null,
+                            "#children": []
+                        },
+                        {
+                            "#name": "@name",
+                            "#text": "subject-6",
+                            "#children": []
+                        }
+                    ]
+                },
+				
+                {
+                    "#name": "abstract",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "@id",
+                            "#text": "cbr6257",
+                            "#children": []
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "b",
+                                    "#text": "Bollywood",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " is the name for the motion-picture industry in India. The term is also\n used to describe a certain type of film associated with that industry. Bollywood is one\n of the largest film industries in the world, releasing thousands of movies each year.\n The industry is based in Mumbai. The term Bollywood is a combination of the words Bombay\n (a former name for Mumbai) and Hollywood (California, the motion-picture capital of the\n world). Bollywood films are made in the Hindi language. Most Bollywood movies are\n musicals, featuring singing and dancing. But some are action and adventure films. The\n plots emphasize romance, comedy, and melodrama. The...",
+                                    "#children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "#name": "contributor",
+                    "#text": "Rini Bhattacharya Mehta",
+                    "#children": [
+                        {
+                            "#name": "@contributor-refid",
+                            "#text": "cbr6257",
+                            "#children": []
+                        }
+                    ]
+                },
+                {
+                    "#name": "body",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "first-para",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "para-head",
+                                    "#text": "Bollywood",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "p",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " is the name for the ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link",
+                                            "#text": null,
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": 373560,
+                                                    "#children": []
+                                                },
+                                                {
+                                                    "#name": "title",
+                                                    "#text": "motion-picture",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " industry in ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link",
+                                            "#text": null,
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": 274440,
+                                                    "#children": []
+                                                },
+                                                {
+                                                    "#name": "title",
+                                                    "#text": "India.",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " The term is also used to describe a certain type of film associated with\n that industry. Bollywood is one of the largest film industries in the world,\n releasing thousands of movies each year. The industry is based in ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link",
+                                            "#text": null,
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": 377430,
+                                                    "#children": []
+                                                },
+                                                {
+                                                    "#name": "title",
+                                                    "#text": "Mumbai.",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " The term ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "i",
+                                            "#text": "Bollywood",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " is a combination of the words ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "i",
+                                            "#text": "Bombay",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": " (a\n former name for Mumbai) and ",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link",
+                                            "#text": null,
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": 259500,
+                                                    "#children": []
+                                                },
+                                                {
+                                                    "#name": "title",
+                                                    "#text": "Hollywood",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": ", (",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link",
+                                            "#text": null,
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": "087960",
+                                                    "#children": []
+                                                },
+                                                {
+                                                    "#name": "title",
+                                                    "#text": "California",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "#name": "CDATA",
+                                            "#text": ", the motion-picture capital of the world). The name Bollywood became popular\n beginning in the 1990's.",
+                                            "#children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "media",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "@id",
+                                    "#text": "pc119656",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "@rights",
+                                    "#text": "wbowned",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "@type",
+                                    "#text": "photo",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "title",
+                                    "#text": "Motion pictures in India",
+                                    "#children": []
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "Bollywood films are made in the ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 257220,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Hindi language.",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " Most Bollywood movies are ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 378760,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "musicals,",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " featuring singing and dancing. But some are action and adventure films. The\n plots emphasize romance, comedy, and melodrama. The dancing is typically based on\n traditional Indian classical dance and folk dances. The songs are usually prerecorded by\n professional singers known as ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755635,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "playback singers",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": ". The actors ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "lip sync",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " the songs on the screen—that is, they move their\n lips as though they are singing the songs.",
+                                    "#children": []
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "India's first experience of motion pictures came in 1896, when the French brothers ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 333920,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Auguste and Louis Lumière",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " screened six soundless short films in Bombay. In 1899, photographer\n Harishchandra Bhatavdekar became the first Indian to shoot and exhibit a film in India.\n The first Indian silent feature film was ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Raja Harishchandra,",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " released in Bombay\n in 1913. It was directed by ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 741972,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Dadasaheb Phalke.",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " The film was based on a story from the Indian epic poem the \"",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 338780,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Mahabharata",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "\" about a ruler named Harishchandra. The first Indian sound film, the fantasy\n ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Alam Ara",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": ", was released in 1931 in Bombay. It was produced by the Imperial\n Film Company and directed by ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 736709,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Ardeshir Irani.",
+                                            "#children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "Notable Bollywood films—most of them made before the name Bollywood came into common\n use—include the dramas ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Awaara",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1951) and ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Do Bigha Zamin",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1953); the epic\n dramas ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Mother India",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1957) and ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Mughal-E-Azam",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1960); the musical drama\n ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Guide",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1965); the comedy ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Padosan",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1968); the musical romance\n ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Bobby",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1973); the action dramas ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Sholay",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " and ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Deewaar",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (both 1975);\n the romantic drama ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Qayamat Se Qayamat Tak",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1988); the romantic comedies ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Hum\n Aapke Hain Kaun. . . !",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1994) and ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Dilwale Dulhania Le Jayenge",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (1995); the\n historical drama ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Lagaan",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " (2001); and the comedy",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": " Lage Raho Munna Bhai",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "\n (2006).",
+                                    "#children": []
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "media",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": "pc368828",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "@rights",
+                                            "#text": "licensed",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "@type",
+                                            "#text": "photo",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Amitabh Bachchan",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "  Popular Bollywood stars include ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 727365,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Dev Anand, ",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755842,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Amitabh Bachchan,",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " Dharmendra, ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755367,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Madhuri Dixit,",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " Sunil Dutt, Aamir Khan, Salman Khan, ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755368,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Shahrukh Khan, ",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755503,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Rajesh Khanna, ",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755369,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Dilip Kumar, ",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " Raaj Kumar, and Nargis. ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 739025,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Lata Mangeshkar",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " became one of Bollywood's leading playback singers. There are a number of\n leading Bollywood families that have had several generations of members in the industry.\n One notable family group includes the acting and directing pioneer Prithviraj Kapoor,\n his sons, ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 737254,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Raj,",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " Shammi, and Shashi Kapoor; Raj Kapoor's sons Randhir, Rishi, and Rajiv Kapoor;\n Randhir's daughters Karisma and ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755370,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Kareena Kapoor;",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " and Rishi's son, ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 756287,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Ranbir Kapoor.",
+                                            "#children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "#name": "p",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "media",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": "pc368769",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "@rights",
+                                            "#text": "licensed",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "@type",
+                                            "#text": "photo",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Shahrukh Khan ",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755371,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Filmfare Awards",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "—Bollywood's version of the ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 726480,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Academy Awards",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": "—are presented annually for artistic and technical excellence in filmmaking in\n the Hindi language. The Indian screen magazine ",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "i",
+                                    "#text": "Filmfare",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "CDATA",
+                                    "#text": " presents the awards in\n more than 30 categories. Magazine readers submit their votes, and the awards are\n presented at a ceremony in Mumbai. Filmfare Awards were first presented in 1954. The\n government of India has also presented its own motion-picture awards, the National Film\n Awards, since 1954. ",
+                                    "#children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "#name": "study-aids",
+                    "#text": null,
+                    "#children": [
+                        {
+                            "#name": "related-links",
+                            "#text": null,
+                            "#children": [
+                                {
+                                    "#name": "related-links-head",
+                                    "#text": "Related articles",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "p",
+                                    "#text": " in World Book include:",
+                                    "#children": []
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755842,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Bachchan, Amitabh",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755500,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Bhosle, Asha",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755367,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Dixit, Madhuri",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755371,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Filmfare Awards",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 274440,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "India",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link-subhead",
+                                            "#text": "Motion pictures",
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": "h33",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755370,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Kapoor, Kareena",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 756287,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Kapoor, Ranbir",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755368,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Khan, Shahrukh",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755503,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Khanna, Rajesh",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755369,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Kumar, Dilip",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 373560,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Motion picture",
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "link-subhead",
+                                            "#text": "Films in postwar India",
+                                            "#children": [
+                                                {
+                                                    "#name": "@id",
+                                                    "#text": "h50",
+                                                    "#children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 755635,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Playback singer",
+                                            "#children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#name": "link",
+                                    "#text": null,
+                                    "#children": [
+                                        {
+                                            "#name": "@id",
+                                            "#text": 744519,
+                                            "#children": []
+                                        },
+                                        {
+                                            "#name": "title",
+                                            "#text": "Shantaram, V.",
+                                            "#children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

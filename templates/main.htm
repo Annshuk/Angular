@@ -1,0 +1,21 @@
+<section class="main_container"> 		
+      <div class="sidebar">
+      <figure-Img imgSoruce=""></figure-Img>
+      </div>
+      <div class="rightbar">         
+				<script type="text/ng-template" id="categoryTree">
+                {{ category["#text"] }}
+				<a ng-if="category['#name']==='link'" href="#{{category['#text'] }}">Linkk{{ category['#text'] }}</a>
+                <p ng-if="category['#children']" style="display:inline">
+                <span ng-repeat="category in category['#children']" ng-include="'categoryTree'">
+				
+				
+				</span>
+				<br>
+                </p>
+                </script>
+                <p>
+        			<span ng-repeat="category in object" ng-include="'categoryTree'"></span>
+    			</p>  
+      </div>
+    </section>
